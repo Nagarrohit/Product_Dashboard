@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nagarrohit/Product_Dashboard.git/static/css/main.e10d7030.css",
+    "main.js": "/Nagarrohit/Product_Dashboard.git/static/js/main.ad5424c1.js",
+    "static/js/453.ea172b29.chunk.js": "/Nagarrohit/Product_Dashboard.git/static/js/453.ea172b29.chunk.js",
+    "index.html": "/Nagarrohit/Product_Dashboard.git/index.html",
+    "main.e10d7030.css.map": "/Nagarrohit/Product_Dashboard.git/static/css/main.e10d7030.css.map",
+    "main.ad5424c1.js.map": "/Nagarrohit/Product_Dashboard.git/static/js/main.ad5424c1.js.map",
+    "453.ea172b29.chunk.js.map": "/Nagarrohit/Product_Dashboard.git/static/js/453.ea172b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10d7030.css",
+    "static/js/main.ad5424c1.js"
+  ]
+}
