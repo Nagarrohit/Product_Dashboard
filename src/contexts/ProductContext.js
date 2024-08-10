@@ -9,7 +9,7 @@ export const ProductProvider = ({ children }) => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get('https://cors-anywhere.herokuapp.com/https://cdn.drcode.ai/interview-materials/products.json')
+    axios.get('/interview-materials/products.json')
       .then(response => {
         const productArray = Object.values(response.data.products);
         setProducts(productArray);
